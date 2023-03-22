@@ -1,0 +1,17 @@
+body{
+    background-color:cadetblue;
+    text-align: center;
+    font-family: 'Bad Script';font-size: 22px;
+}
+h1,p{
+    color:sienna;
+    text-align: center;
+    line-height: 1.5;
+
+}
+.clip-circle{
+    clip-path: circle(50% at 50% 50%);
+}
+.box{
+    background-color: white;
+}
